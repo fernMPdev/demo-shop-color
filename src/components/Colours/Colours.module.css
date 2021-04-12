@@ -1,0 +1,29 @@
+.Colours{
+    width: 33%;
+    height: 140px;
+    box-sizing: border-box;
+    margin: 12px;
+}
+
+.AddToCart{
+width: 100%;
+height: auto;
+display: flex;
+justify-content: space-between;
+flex-wrap: nowrap;
+margin-top: 4px;
+}
+
+@media screen and (min-width: 601px) {
+   .Colours{
+       width: 185px;
+       border-bottom: 2px solid rgb(126, 141, 132);
+         padding: 2px;
+   }
+}
+
+@media screen and (min-width: 801px) {
+    .Colours{
+        margin: 10px;
+    }
+ }

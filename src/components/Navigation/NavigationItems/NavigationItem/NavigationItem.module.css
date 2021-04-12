@@ -1,0 +1,44 @@
+.NavigationItem {
+  margin: 10px 0;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  text-align: center;
+  height: 27px;
+}
+
+.NavigationItem a {
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+  color: #fff;
+  height: 81%;
+  border-bottom: 4px solid transparent;
+  font-size: 1.3em;
+}
+
+@media (min-width: 500px) {
+  .NavigationItem {
+    margin: 0;
+    display: flex;
+    height: 100%;
+    width: auto;
+    align-items: center;
+    color: #fff;
+  }
+  
+.NavigationItem a {
+  color: #000;
+  
+  padding: 16px 10px;
+}
+
+
+  .NavigationItem a:active,
+  .NavigationItem a.active {
+    color: #6441a5;
+    border-bottom: 3px solid #674b9b;
+    font-weight: bold;
+  }
+}

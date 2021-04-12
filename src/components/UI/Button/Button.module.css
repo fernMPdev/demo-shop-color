@@ -1,0 +1,15 @@
+.Button {
+    width: 55%;
+    height: 50px;
+    border: none;
+    background: linear-gradient(to bottom,#f6c88f,#ed9220);
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(61, 59, 59);
+  }
+
+  @media screen and (min-width: 501px) {
+    .Button{
+      height: 38px;
+    }
+ }

@@ -1,0 +1,42 @@
+.ConfirmOrder {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 95%;
+  min-height: 20vh;
+  display: flex;
+}
+.Order {
+  min-height: 170px;
+  width: 100%;
+  margin: 5px;
+  margin-left: 5px;
+  box-shadow: 1px 1px 2px 4px rgba(68, 68, 68, 0.6);
+}
+
+.OrderId {
+  width: 100%;
+  font-size: 12px;
+  text-align: center;
+  border-bottom: 4px solid #6441a5;
+}
+
+.MessageOrder{
+    width: 95%;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.MessageOrder i {
+  font-size: 12px;
+}
+
+@media screen and (min-width: 601px) {
+  .ConfirmOrder {
+    width: 84%;
+  }
+
+  .Order {
+    width: 550px;
+  }
+}

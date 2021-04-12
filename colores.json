@@ -1,0 +1,129 @@
+{
+  "colors": [
+    {
+      "name": "beige",
+       "hex": "#F5F5DC",
+       "price":"1.2"
+    },
+    {
+      "name": "bisque",
+        "hex": "#FFE4C4",
+        "price":"1.4"
+    },
+    {
+      "name": "blueviolet",
+        "hex": "#8A2BE2",
+        "price":"1"
+    },
+    {
+      "name": "cadetblue",
+        "hex": "#5F9EA0",
+        "price":"1.8"
+    },
+    {
+      "name": "coral",
+        "hex": "#FF7F50",
+        "price":"2"
+    },
+	{
+      "name": "cornflowerblue",
+        "hex": "#6495ED",
+        "price":"2.8"
+    },
+	{
+      "name": "cornsilk",
+        "hex": "#FFF8DC",
+        "price":"0.8"
+    },
+	{
+      "name": "darkcyan",
+        "hex": "#008B8B",
+        "price":"3.4"
+    },
+	{
+      "name": "darkorange",
+        "hex": "#FF8C00",
+        "price":"1.7"
+    },
+	{
+      "name": "darksalmon",
+        "hex": "#E9967A",
+        "price":"1.2"
+    },
+	{
+      "name": "darkseagreen",
+        "hex": "#8FBC8F",
+        "price":"2.2"
+    },
+	{
+      "name": "darkslateblue",
+        "hex": "#483D8B",
+        "price":"4.8"
+    },
+	{
+      "name": "indianred",
+        "hex": "#CD5C5C",
+        "price":"3.3"
+    },
+	{
+      "name": "lightblue",
+        "hex": "#ADD8E6",
+        "price":"7"
+    },
+	{
+      "name": "lightcyan",
+        "hex": "#E0FFFF",
+        "price":"2.9"
+    },
+	{
+      "name": "lightgreen",
+        "hex": "#90EE90",
+        "price":"1.5"
+    },
+	{
+      "name": "lightsteelblue",
+        "hex": "#B0C4DE",
+        "price":"5.8"
+    },
+	{
+      "name": "mediumaquamarine",
+        "hex": "#66CDAA",
+        "price":"4.9"
+    },
+	{
+      "name": "mediumseagreen",
+        "hex": "#3CB371",
+        "price":"6"
+    },
+	{
+      "name": "peru",
+        "hex": "#CD853F",
+        "price":"1.1"
+    },
+	{
+      "name": "steelblue",
+        "hex": "#4682B4",
+        "price":"8"
+    },
+	{
+      "name": "thistle",
+        "hex": "#D8BFD8",
+        "price":"4.1"
+    },
+	{
+      "name": "tomato",
+        "hex": "#FF6347",
+        "price":"1.9"
+    },
+	{
+      "name": "turquoise",
+        "hex": "#40E0D0",
+        "price":"1.7"
+    },
+	{
+      "name": "yellow",
+        "hex": "#FFFF00",
+        "price":"0.5"
+    }
+  ]
+}

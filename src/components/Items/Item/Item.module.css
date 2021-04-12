@@ -1,0 +1,45 @@
+.Item{
+    width: 90%;
+    min-height: 110px;
+    border-bottom: 2px solid #ccc;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Item_container_color{
+    height: 80%;
+    width: 30%;
+    padding: 3px;
+}
+.Item_color{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.Item_container_details{
+    height: 80%;
+    width: 60%;
+    text-decoration:none;
+}
+
+.Item_details{
+    list-style:none;
+    display: flex;
+    flex-direction: column;
+}
+.Item_details li{
+    display: block;
+}
+.Delete{
+    width: 20px;
+    height: 20px;
+}
+
+@media (min-width: 500px) {
+    .Item_container_color {
+        width: 22%;
+    }
+}

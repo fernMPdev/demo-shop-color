@@ -1,0 +1,9 @@
+.Price{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42%;
+    color:#B12704;
+    font-size: 18px;
+    font-weight: bold;
+}

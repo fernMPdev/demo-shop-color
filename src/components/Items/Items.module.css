@@ -1,0 +1,32 @@
+.Items{
+    width: 100%;
+    min-height:200px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ButtonCheckout{
+    text-align: center;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.Texts{
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 2px solid #674b9b ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (min-width: 600px) {
+    .Items {
+        width: 550px;
+    }
+    
+} 

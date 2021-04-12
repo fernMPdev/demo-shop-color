@@ -1,0 +1,38 @@
+.Logo {
+  padding: 1px;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin-left: 20px;
+  position: relative;
+  
+}
+.Logo img {
+  height: 100%;
+  width: auto;
+}
+.CartLength{
+  color: #fff;
+  text-decoration: none;
+}
+.Carrito,
+.Centered {
+  display: none;
+}
+@media only screen and (max-width: 500px) {
+  .ShopLogo {
+    display: none;
+  }
+  .Centered {
+    display: block;
+    position: absolute;
+    font-size: 17px;
+    top: 55%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+  }
+
+  .Carrito {
+    display: block;
+  }
+}
